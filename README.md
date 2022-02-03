@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @tinogutierrez
 
-- 🔭 I'm a Software Engineer
+- 🔭 I'm a Software Engineer based in NY
 - 👀 My passion is coding and design
 - 💬 My main role is Front End Developer
 - 🌱 I’m currently open to work
