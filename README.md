@@ -3,7 +3,7 @@
 - 🔭 I'm a Software Engineer based in NY
 - 👀 My passion is coding and design
 - 💬 My main role is Front End Developer
-- 🌱 I’m currently open to work
+- 🌱 I’m a Software Engineer @ [NYSHEX](https://www.nyshex.com/)
 - ⚡ Fun fact: I ❤️ music
 
 ## 📫 Reach me
@@ -13,5 +13,6 @@
 tinogutierrez/tinogutierrez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
+<!---
 ![tinogutierrez's GitHub stats](https://github-readme-stats.vercel.app/api?username=tinogutierrez&count_private=true&show_icons=true)
+--->
