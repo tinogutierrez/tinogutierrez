@@ -3,7 +3,7 @@
 - 🔭 I'm a Senior Software Engineer based in NY
 - 👀 My passion is coding and design
 - 💬 My main role is Front End Engineer
-- 🌱 I’m a Senior Software Engineer @ [NYSHEX](https://www.nyshex.com/)
+- 🌱 I deploy code everyday @ [NYSHEX](https://www.nyshex.com/)
 - ⚡ Fun fact: I ❤️ music
 
 ## 📫 Reach me
