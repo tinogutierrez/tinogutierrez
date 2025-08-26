@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @tinogutierrez
 
-- 🔭 I'm a Senior Software Engineer based in NY
+- 🔭 I'm a Software Engineer based in NY
 - 👀 My passion is coding and design
 - 💬 My main role is Front End Engineer
 - 🌱 I deploy code everyday @ [NYSHEX](https://www.nyshex.com/)
